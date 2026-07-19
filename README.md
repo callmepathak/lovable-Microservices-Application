@@ -3,7 +3,7 @@
 Tech Stack & Tools: Java 21, Spring Boot 4.x, Maven, PostgreSQL, pgvector, Redis, Apache Kafka, Spring Cloud Gateway, Netflix Eureka, OpenFeign, Docker, Kubernetes (GKE), Jib, MinIO, Spring AI, OpenAI, Stripe, JWT, BCrypt, MapStruct, Lombok, Node.js, React, TypeScript, Vite, Tailwind CSS, GitHub Actions, Qodana.
 
 Summary Bullet Points:
-1. AI-Powered Code Generation — Chat with an LLM to generate full-stack React apps in real-time with SSE streaming, XML-tagged output parsing, and file tree context injection.
+1. AI-Powered Code Generation —  Chat with an LLM to generate frontend React apps in real-time with SSE streaming, XML-tagged output parsing, and file tree context injection.
 2. Multi-Service Microservices Architecture — 7 Spring Boot services (Gateway, Discovery, Config, Account, Intelligence, Workspace, Common-lib) with Eureka discovery and Git-backed centralized config.
 3. JWT Authentication & RBAC — Stateless JWT auth with gateway-level token validation and role-based access control (Owner/Editor/Viewer) per project with granular permissions.
 4. Subscription & Billing (Stripe) — Full Stripe integration: checkout sessions, customer portal, webhook handling for subscription lifecycle (activate, renew, cancel, past-due), and plan-based rate limiting.
